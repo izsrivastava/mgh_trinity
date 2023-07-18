@@ -76,7 +76,7 @@ animal_prev <- c(rep(304, 36), rep(308, 36), rep(313, 36),
                  rep(361, 36), rep(370, 36),
                  rep(379, 36), rep(384, 36), rep(398, 36),
                  rep(409, 36), rep(417, 36), rep(424, 36), 
-                 rep(438, 36), rep(442, 36), rep(450, 36))
+                 rep(438, 36), rep(442, 36), rep(450, 36)) #This prev is factually wrong, need to change
 enviro_prev <- c(rep(201, 36), rep(202, 36), rep(203, 36),
                  rep(205, 36), rep(205, 36), rep(207, 36),
                  rep(208, 36),rep(210, 36), rep(211, 36),
@@ -84,7 +84,7 @@ enviro_prev <- c(rep(201, 36), rep(202, 36), rep(203, 36),
                  rep(215, 36), rep(216, 36), rep(217, 36),
                  rep(217, 36), rep (219, 36), rep(221, 36), 
                  rep(222, 36), rep(223, 36), 
-                 rep(225, 36))
+                 rep(225, 36)) #This prev is factually wrong, need to change
 
 #Times 
 #----------------------------------------------------------------------------------------------
@@ -209,7 +209,7 @@ human_prev <- c(rep(500, 36), rep(514, 36), rep(530, 36), rep(526, 36), rep(539,
 animal_prev <- c(rep(400, 36), rep(414, 36), rep(430, 36), rep(426, 36), rep(439, 36),
                 rep(555, 36), rep(546, 36), rep(564, 36), rep (578, 36), rep(572, 36),
                 rep(486, 36), rep(488, 36), rep(496, 36), rep(491, 36), rep(498, 36),
-                rep(404, 36), rep(422, 36), rep(441, 36), rep(457, 36), rep(466, 36))
+                rep(404, 36), rep(422, 36), rep(441, 36), rep(457, 36), rep(466, 36))#This prev is factually wrong, need to change
 enviro_prev <- c(rep(251, 36), rep(252, 36), rep(253, 36),
                  rep(255, 36), rep(255, 36), rep(257, 36),
                  rep(258, 36),rep(260, 36), rep(261, 36),
@@ -217,7 +217,7 @@ enviro_prev <- c(rep(251, 36), rep(252, 36), rep(253, 36),
                  rep(265, 36), rep(266, 36), rep(267, 36),
                  rep(267, 36), rep(269, 36), rep(271, 36), 
                  rep(272, 36), rep(273, 36), 
-                 rep(275, 36))
+                 rep(275, 36))#This prev is factually wrong, need to change
 
 #Times 
 #----------------------------------------------------------------------------------------------
@@ -341,7 +341,7 @@ human_prev <- c(rep(700, 36), rep(714, 36), rep(730, 36), rep(726, 36), rep(739,
 animal_prev <- c(rep(600, 36), rep(614, 36), rep(630, 36), rep(626, 36), rep(639, 36),
                  rep(655, 36), rep(646, 36), rep(664, 36), rep (678, 36), rep(672, 36),
                  rep(686, 36), rep(688, 36), rep(696, 36), rep(691, 36), rep(698, 36),
-                 rep(704, 36), rep(722, 36), rep(741, 36), rep(757, 36), rep(766, 36))
+                 rep(704, 36), rep(722, 36), rep(741, 36), rep(757, 36), rep(766, 36))#This prev is factually wrong, need to change
 enviro_prev <- c(rep(281, 36), rep(282, 36), rep(283, 36),
                  rep(285, 36), rep(285, 36), rep(287, 36),
                  rep(288, 36),rep(280, 36), rep(291, 36),
@@ -349,7 +349,7 @@ enviro_prev <- c(rep(281, 36), rep(282, 36), rep(283, 36),
                  rep(295, 36), rep(296, 36), rep(297, 36),
                  rep(297, 36), rep(299, 36), rep(301, 36), 
                  rep(302, 36), rep(303, 36), 
-                 rep(305, 36))
+                 rep(305, 36))#This prev is factually wrong, need to change
 
 #Total count
 #----------------------------------------------------------------------------------------------
